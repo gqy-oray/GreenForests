@@ -1,0 +1,42 @@
+/* CSS Document */
+.fix{ 
+   width:100%; 
+   height:50px;position:fixed;
+   top:0px; left:0px; right:0px;
+   background-color:#474a44;
+   z-index:2000;
+  }
+.nav{ 
+	width:900px; 
+	height:50px;overflow:hidden;
+	text-align:center;
+	margin:auto;
+}
+.nav a:hover {
+	padding-top:50px;
+	color:#9fd052;
+	 }
+
+.nav ul{
+	 text-decoration:none;
+	 list-style:none;
+	  }
+.nav li{
+	 font-size:20px;
+	  border-left:1px solid #9fd052;
+	  overflow:hidden; width:100px;
+	  height:50px;line-height:50px;float:left;
+	  overflow:hidden;
+	  }
+.nav span{
+	display:block;
+	margin-top:-50px;
+	}
+.nav a{
+	text-decoration:none;
+	color:#ffffff;
+	overflow:hidden;
+	width:100px;
+	float:left;
+	overflow:hidden;
+	}

@@ -1,0 +1,42 @@
+/* CSS Document */
+  *{ margin:0px; padding:0px;}
+	body{
+		font-family: "Microsoft YaHei UI";
+		color:#FFFFFF;
+		background-color:#000;
+		font-size:16px;
+	}
+	#Ellipse{
+		position:relative;
+		visibility:visible;
+		z-index:1;
+		width:700px;
+		height:80px;
+		border:none;
+		margin-top: 250px;
+		margin-bottom: 100px;
+	}
+	.content{
+		 height:auto; 
+		 width:1000px;
+		 background-color:#FFF;
+		 margin:auto;
+		 
+		 }
+	.RotatingIcon{
+		border:none;
+		width:80px;
+	}
+	.cardmin{
+		 width:400px; 
+		 height:600px;
+		 float:left;
+		 text-align:center;
+		 
+		 }
+	.cardmin img{
+		 width:150px;
+	     height:200px;
+		 }
+	.cardmin p{ text-align:center;}
+	

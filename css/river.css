@@ -1,0 +1,167 @@
+/* CSS Document */
+body{
+		font-family: "Microsoft YaHei UI";
+		font-size:16px;
+}
+.fix{ 
+   width:1000px; 
+   height:50px;position: absolute;
+   top:0px; left:0px; right:0px;
+   background-color:#474a44;
+   z-index:2000;
+   margin:auto;
+  }
+.nav{ 
+	width:850px; 
+	height:50px;overflow:hidden;
+	text-align:center;
+	margin:auto;
+	margin-left:50px;
+}
+.nav a:hover {
+	padding-top:50px;
+	color:#06C;
+	 }
+
+.nav ul{
+	
+	 text-decoration:none;
+	 list-style:none; text-align:center;
+	  }
+.nav li{
+	 font-size:18px;
+	  border-left:1px solid #9fd052;
+	  overflow:hidden;width:100px;
+	  height:50px;line-height:50px;float:left;
+	  overflow:hidden;
+	 
+	  }
+.nav span{
+	text-align:center;
+	display:block;
+	margin-top:-50px;
+	}
+.nav a{
+	text-decoration:none;
+	color:#ffffff;
+	overflow:hidden;
+	width:100px;
+	float:left;
+	overflow:hidden;
+	}
+.banner{
+	   margin-top:50px;
+		width:100%;
+	}
+.banner img{
+		display:block;
+		margin:0 auto;
+		width:1000px;
+		height:500px;
+	}
+.content{
+	 width:1000px;
+	 }
+.left{
+	 width:650px; 
+	 height:auto; 
+	 float:left;
+	  margin-left:25px;
+	
+	 }
+ .bottom{ 
+	 width:1000PX;
+     height:220px;
+	 float:left;
+	 margin:auto; 
+ }
+ a{
+	text-decoration:none;
+	 color:#000;
+ }
+.bottom1{
+	 width:1000PX; 
+	 height:60px;
+	  float:left;
+	  margin:auto;
+	  text-align:end;
+	 
+ }
+.bottom li{ 
+	width:100px;
+	display:block;
+	float:left;
+	
+	 
+ }
+.bottomin{ 
+	  width:1000px; 
+	  height:auto;
+	   margin:auto; 
+	  padding-top:100px;
+	  padding-left:100px;
+	  
+}
+
+.right{
+	 width:250px;
+	 height:auto;
+	 float:right; 
+	 background-color:#ccc;
+	 margin-right:25px;
+	 }
+.card{
+	 width:650px; 
+	 float:left;
+	 margin:auto; 
+	 text-align:center;
+	  background-color:#033;
+	 }
+.card img{
+	 width:650px; 
+	 height:auto; 
+	 text-align:center;
+	 }	 
+.gao{
+	 height:150px;
+	 }
+.range{
+	 padding-top:50px;
+	 }
+.rangefu{
+	padding-top:-200px;
+	
+	}
+.cardmax{
+	 width:325px; 
+	 height:auto; 
+	 float:left;
+	 }
+.cardmax img{
+	 width:325px; 
+	 height:350px;
+	 }
+.cardmin{
+	 width:200px;
+	 height:100px;
+	 float:left;
+	 margin-left:25px;
+	 }
+.cardmin img{
+	 width:100px;
+	 height:100px;
+
+	
+	} 
+.cardmin p{
+	 font-size:16px; 
+	 font-family:"MS Serif", "New York", serif;
+	 }
+
+.text{
+	 width:250px; 
+	 height:auto; 
+	 margin:auto; 
+	 text-align:center; 
+	 margin-top:50px;
+	 }

@@ -1,0 +1,160 @@
+/* CSS Document */
+*{
+	 margin:0px; 
+	 padding:0px;
+ }
+body{
+		font-family: "Microsoft YaHei UI";
+		font-size:16px;
+}
+
+a{
+	text-decoration:none;
+	 color:#ffffff;
+ }
+body a:hover{
+	color:#baf759; 
+	display:block;
+	text-decoration:none;
+}
+body{
+	 background-color:#2b2d2a;
+ }
+.top{
+	 width:100%; height:140px;
+	  background-color:#474a44;
+ }
+.search-input{
+	 width:500px; height:35px;
+	  margin:auto; margin-top:50px; 
+	  float:left;border: solid 2px #9fd052;
+ }
+.search-input input{ 
+	margin:0px; padding:0px;
+	 border:0px;clear:both; inline:none;
+	  line-height:35px; outline:none;
+ }
+
+.toptitle{ 
+	width:220px; height:90px;
+	margin-left:180px; color:#ffffff;
+	 padding-top:20px; float:left;
+}
+
+
+.nav{ 
+	width:850px; 
+	height:50px;overflow:hidden;
+	text-align:center;
+	 margin:auto;
+}
+
+.nav ul{
+	 text-decoration:none;
+	 list-style:none;
+	  }
+.nav li{
+	 font-size:20px;
+	  border-left:1px solid #474a44;
+	  overflow:hidden; line-height:width:80px;
+	  height:50px;line-height:50px;float:left;
+	  overflow:hidden;}
+.nav span{
+	display:block;
+	margin-top:-50px;
+	}
+.nav a{
+	overflow:hidden;
+	width:100px;
+	float:left;
+	overflow:hidden;
+	}
+.nav a:hover {
+	padding-top:50px;}
+.video{ 
+	width:1025px; 
+	height:auto; 
+	margin:auto;
+}
+.intro{
+	width:1025px;
+	 height:auto;
+	  margin:auto; 
+	  position: absolute;}
+.center{ 
+	height:300px; 
+	width:1025px; 
+	margin:auto;}
+.centertext{
+	 width:624px; height:300px;
+	  margin:auto; text-align:center;
+	  color:#FFF;
+	 }
+.btn{
+	 width:188px; height:auto; 
+	 border:2px solid #ffffff;
+	  margin:auto;
+	 }
+.cen{ 
+	width:100%;
+	 height:250px;
+	  background-image:url(../homepage/9.jpg); background-size:100% 100%;
+	  
+	  text-align:center;
+	}
+.onder{ 
+	width:auto;
+	 height:250px; margin:auto; 
+	 line-height:250px;
+	  color:#9fd052;
+}
+.cen2{
+	 width:100%; 
+	 height:235px;
+	  background-color:#9fd052;
+	 }
+.cen3{ 
+	  width:100%; 
+	  height:355px;
+}
+.cen5{ 
+	width:100%;
+	 height:620px; 
+	 background-color:#9fd052;
+ }
+.tu{ 
+	width:965px;
+	 height:336px; margin:auto; 
+	 padding-top:188px;}
+.tumin{ 
+	width:234px;
+	 height:163px; margin:auto;
+	  float:left;}
+.tumin img{
+	 width:100%;
+	  height:100%;
+	  }
+.cen6{ 
+	width:100%;
+	 height:355px; 
+	 background-image:
+ }
+.bottom{ 
+	width:100%; height:220px;
+	 background-color:#474a44;
+ }
+.bottom1{
+	 width:100%; 
+	 height:60px;
+ }
+.bottom li{ 
+	width:100px;
+	display:block; border-right:1px solid #9fd052;
+	 float:left; text-align:center;
+	 
+ }
+.bottomin{ 
+	  width:800px; 
+	  height:auto; margin:auto; 
+	  padding-top:100px;
+}

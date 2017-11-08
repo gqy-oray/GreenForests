@@ -1,0 +1,90 @@
+/* CSS Document */
+*{ margin:0px; padding:0px;}
+a{text-decoration:none;}
+body{
+		font-family: "Microsoft YaHei UI";
+		font-size:16px;
+		}
+
+	 
+.container{
+	 width:100%; height:5000px; 
+	 background-image: url(../flower/bg.jpg); 
+	 background-repeat:no-repeat; 
+	 background-size:100%;
+	 z-index:1000;
+	 }
+.sidebar{
+	 width:20%; height:500px;
+	 position:fixed; opacity:0.7; 	 
+	 margin-top:100px;
+	 float:left;
+	 background-image: url(../flower/46b1OOOPIC3c.jpg);
+	 background-size:100% 100%;
+	 
+	}
+.leftsidebar{
+	 width:50%; height: 200px;
+	 margin:auto; margin-top:150px;
+	 }
+.leftsidebar ul{
+	list-style:none;
+	}
+
+.content{
+	margin-top:1000px;
+	 width:80%; height:auto;
+	  float:right;
+	  }
+.card-group:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.card-group {
+    margin: 0 auto;
+  
+}
+
+.card-group .card {
+    float: left;
+    width: 300px;
+    margin: 10px;
+    color: #727272;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.8);
+	
+}
+
+.card-group .card .img-holder {
+    width: 300px;
+    height: 450px;
+    overflow: hidden;
+
+}
+
+.card-group .card img {
+    width: 100%; height:100%;
+    transition: all 1s;
+	
+}
+
+.card-group .card img:hover {
+    transform: scale(1.1);
+}
+
+
+
+.card-group  {
+    height: 50px;
+}
+.in{ 
+    position:absolute;
+    height:50px;top:-50px;
+    display:block; width:100px;
+    margin-top:60px; 
+    text-align:center;
+	}
+.inn{
+	position:relative;
+	}
